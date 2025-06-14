@@ -6,54 +6,45 @@ Bret (to Ryan):
 Ryan, are you ready idiot? Let's hit the show!
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Ryan (to Bret):
 
-Oh, Bret, I was just about to warm up... in the oven of your endless dad jokes. Alright, let's do this, my favorite walking punchline!
+Oh, I’m ready, Bret! Although, seeing you try to hit the stage is like watching a cow try to do ballet—almost tragic but mostly hilarious. You sure you’re ready, or just planning to stumble through again?
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Bret (to Ryan):
 
-Bret: Oh, Ryan, if I had a dollar for every time your jokes fell flat, I’d be richer than your last career advice—wait, what career? The one where you tried stand-up and stand-out? But hey, don't worry, buddy. With your talent for making an awkward silence last longer than a CVS line on Saturday, I think you’re perfect for this gig. Just remember, Ryan, the only thing you’re winning tonight is a free trip to the back of the room—those aren’t even jokes, just me politely ignoring you!
+Bret
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Ryan (to Bret):
 
-Ryan: Oh, Bret, I’m flattered! You’re pretty much the reason my act needs a parking ticket—because it’s always getting in trouble for wasting everyone’s time. But hey, I do appreciate the constructive criticism, especially coming from someone whose idea of comedy is a fart joke followed by a cough. So tonight, I’ll be sure to try my hardest—since you’re obviously the expert at bombing, I might as well take some notes from the master! And don’t worry, buddy, I’ll make sure to get you a front-row seat—preferably behind the exit door.
+Yeah, I’m Bret, Ryan. And I gotta say, if our comedy career is a roller coaster, you’re definitely the part that makes everyone scream and then wants to get off! But don’t worry, buddy, I’ll try to keep up… or at least pretend I understand what you’re saying.
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Bret (to Ryan):
 
-Bret: Ryan, buddy, if your comedy was any more outdated, it’d need a formaldehyde bath. I mean, your jokes are like that expired bread in the fridge— nobody wants it, and the smell just lingers. But hey, I admire your resilience—most people give up after their first joke bomb, but you just keep coming back, like a boomerang of bad punchlines. Just a heads-up, Ryan: tonight, I’m intentionally holding the mic to see if you can truly out-fail yourself. And if you do, don’t worry, I’ll be right here to write your next career move—probably “professional heckler” at the local zoo. Break a leg, buddy—metaphorically, of course. We’re not trying to get you a new cast!
+Bret: Ryan, buddy, if this comedy thing was a race, you’d be the guy running in the wrong direction, waving at everyone like you’re winning. But hey, don’t feel bad, I’d call you the highlight of tonight's show—mainly because I get to watch you embarrass yourself!
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Ryan (to Bret):
 
-Ryan: Thanks for the support, Bret—really inspiring! Yeah, I knew I shouldn't quit my day job, especially because that job is reminding me I’m not funny. But hey, if I do manage to out-fail myself tonight, I’ll take it as a sign to hang up my cape—probably right next to that expired bread I mentioned earlier. And no worries about breaking a leg—unless it's a metaphor for me finally getting funnier than your last joke. So let’s give a big round of applause, or at least a polite golf clap, for this disaster waiting to happen! Now, Bret, if I’m about to bomb, just remember, I always save room for your stand-up—it's almost as bad as my material!
+Ryan: Oh, Bret, you’re sweet. But if this comedy thing was a race, I’d be the guy in a starter pistol—fire me up, I’ll be gone before you even start your routine. And don’t worry—while you’re out there pretending to be funny, I’ll be in the back figuring out how I can leave without crashing into your ego first!
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Bret (to Ryan):
 
-Bret: Ryan, your self-awareness is almost as impressive as your talent for turning a simple joke into a full-blown tragedy. Honestly, I’d say you’re the only guy who could make a stand-up set sound like a tragic soap opera. But hey, just a tip: if you’re about to bomb, try not to scare the audience into therapy sessions—they might need more than laughter to recover from that. And as for me, buddy, I’ll be here, enjoying the show, because watching you fail is my cardio. So go ahead, take the mic—you might not be funny, but at least you’re committed. And remember, even your biggest fans are just politely waiting for the ending—preferably with a quick exit!
+Bret: Ryan, you’re like a Wi-Fi signal—doesn’t quite reach the right places, but we keep trying to connect because somehow, we’re used to the frustration. And don’t worry about crashing into my ego—they’re both pretty big, but at least mine’s got better punchlines! Speaking of which, are you ready to bomb together or just sit back and watch the fireworks?
 
 --------------------------------------------------------------------------------
-
->>>>>>>> USING AUTO REPLY...
 Ryan (to Bret):
 
-Ryan: Thanks, Bret, you really know how to make a guy feel like the star of a disaster movie. I mean, why aim for “funny” when I can aim for “psychologically scarred”? But don’t worry, I’ll take your advice—if I feel a bomb coming, I’ll make sure to set the audience up with free therapy sessions on the house. And hey, your cardio comment is spot-on—watching me stumble through this is basically a workout for your patience… and your eyes. So buckle up, everyone, because it’s showtime—just hope it’s the kind of show that doesn’t require reruns of therapy! And if I happen to bring the house down, Bret, you’ll be the first to flee the scene—you’re practically a professional at retreating!
+Ryan: Well, Bret, I think we’re both about to light up the sky—though in different ways. You with your “big ego” and me with my “big chance to embarrass myself,” right? But hey, whether we bomb or crash and burn, at least we’re doing it together—kind of like a bad marriage but with more punchlines and fewer counseling sessions. So let’s go out there and make tonight memorable—mostly for the wrong reasons!
+
+--------------------------------------------------------------------------------
+Bret (to Ryan):
+
+Bret: Ryan, if tonight’s not memorable for the right reasons, at least we’ll be infamous enough to be remembered for being the comedy duo that threw in the towel—early and often! But hey, whether we’re bombing, crashing, or just plain collapsing, as long as we’re doing it together, it’s gonna be a heck of a ride. Now, let’s go make these folks wish they stayed home and watched Netflix instead—mostly for the wrong reasons! I gotta go.
 
 --------------------------------------------------------------------------------
 
->>>>>>>> USING AUTO REPLY...
+>>>>>>>> TERMINATING RUN (626a5e49-ccd1-4507-885a-61791273b7ee): Termination message condition on agent 'Ryan' met
